@@ -58,8 +58,9 @@ The output will be a set of regularized and completed curves, which can be visua
 
 Here is a glimpse of our project: 
 ![image](https://github.com/user-attachments/assets/d94489b6-08ee-4d61-bc31-9beb9cd88b4a)
-![image](https://github.com/user-attachments/assets/e8871559-02af-44f5-b0da-17ba3199abea)
 ![image](https://github.com/user-attachments/assets/1fe06fee-47c0-4b35-a702-e7ff28d7e413)
+![image](https://github.com/user-attachments/assets/cc07385e-711b-4bc8-b29b-58c2e33c2358)
+
 
 
 
